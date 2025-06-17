@@ -5,7 +5,7 @@
 The main goal of this project is to analyze retail sales data from a coffee shop in order to extract actionable insights that can drive better decision-making and boost overall performance. The focus is to understand customer behavior, product trends, and sales patterns to help improve business strategies.
 
 ## Dataset Used
-[View Dataset](https://example.com)
+[View Dataset](https://github.com/shubh-verma96/Coffee-Shop-Sales/blob/main/Cofee%20Shop%20Sales.xlsx)
 
 ## Key Questions (KPIs)
 
